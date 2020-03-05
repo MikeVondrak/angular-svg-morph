@@ -1,0 +1,13 @@
+* {
+  font-family: Lato;
+}
+
+.container {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #0073d1;
+}
+svg {
+  margin-right: 1em;
+  background: #efefff;
+}
